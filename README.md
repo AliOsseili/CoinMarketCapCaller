@@ -10,6 +10,15 @@ Ensure you have requests package installed via pip
 
 Use the cmc object provided and use the two functions built in.
 
+OPTIONAL: You may put the cmc object inside pp() to utilize pretty print
+
+Examples:
+
+cmc.getPrice('BTC)
+
+pp(cmc.getPrice('BTC))
+
+
 # getAllCoins
 
 Params: None
