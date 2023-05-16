@@ -13,8 +13,10 @@ Use the cmc object provided and use the two functions built in.
 # getAllCoins
 
 Params: None
+
 Return: List of all coins on coin market cap
 
 # getPrice
 Params: symbol - Input the symbol of the coin as a string
+
 Return: number - Returns the price of the provided symbol in USD
